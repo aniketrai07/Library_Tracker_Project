@@ -31,16 +31,6 @@ Main.java       → Entry point of the program with main menu
 Module1.java    → Handles Student Details  
 Module2.java    → Handles Library System (CRUD operations)  
 
-
-▶️ How to Run
-Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
-Open the project in your IDE.
-Compile and run Main.java:
-javac Main.java
-java Main
-Choose options from the menu to interact with the system.
-
 📝 Example Menu
 ===== Main Menu =====
 1 - Module 1 (Student Details)
