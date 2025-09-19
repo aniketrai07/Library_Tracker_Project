@@ -1,3 +1,5 @@
+⚡ CONSOLE BASED PROJECT ⚡
+
 📚 Student & Library Management System (Console-Based Java Project)
 This is a Java console-based project that provides two main modules:
 1. Student Details Module – Enter and display student details.
